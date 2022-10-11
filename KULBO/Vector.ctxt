@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=Vector
+comment1.params=x_\ y_
+comment1.target=Vector(float,\ float)
+comment10.params=x_\ y_
+comment10.target=void\ set(float,\ float)
+comment2.params=a\ b
+comment2.target=Vector(Vector,\ Vector)
+comment3.params=
+comment3.target=float\ mag()
+comment4.params=
+comment4.target=void\ normalize()
+comment5.params=value
+comment5.target=void\ mult(float)
+comment6.params=value
+comment6.target=void\ sub(Vector)
+comment7.params=value1\ value2
+comment7.target=void\ sub(Vector,\ Vector)
+comment8.params=vec
+comment8.target=void\ add(Vector)
+comment9.params=value
+comment9.target=void\ set(Vector)
+numComments=11
